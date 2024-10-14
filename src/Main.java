@@ -61,6 +61,10 @@ public class Main {
         return n & ~(1 <<(k -1));
     }
 
+    public static void prepareMidterm() {
+        System.out.println("We wish you take 100 points");
+    }
+
 
 
 
